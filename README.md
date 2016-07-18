@@ -1,4 +1,4 @@
-Bo Ning's website
+Dr. Jekyll: A scholarly website template.
 ===================
 
 This Jekyll template is meant for young (or established) scholars who would like to set up a website quickly and have it remain stable in the future.
