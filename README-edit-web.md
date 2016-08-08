@@ -9,3 +9,8 @@ To run the serve
 use "jekyll serve" to view the website;
 use "jekyll build" to build the website without view it.
 
+-------------------------------------
+To create empty file 
+
+touch .nojekyll
+
