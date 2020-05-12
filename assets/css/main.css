@@ -454,7 +454,7 @@ h3 {
     clear: both; }
 
 .contact-info {
-  max-width: 350px;
+  max-width: 200px;
   margin: 0 auto;
   float: left;
   padding: 0px 20px; }
@@ -652,3 +652,8 @@ h3 {
   display: block;
   width: auto;
   font-size: 18px; }
+
+.yourdiv
+{
+    display: inline;
+}
