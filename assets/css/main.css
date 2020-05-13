@@ -648,3 +648,8 @@ h3 {
   width: auto;
   font-size: 18px; }
 
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
