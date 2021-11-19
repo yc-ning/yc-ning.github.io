@@ -1,2 +1,2 @@
-# mingweii.github.io
+# Bo-Ning.github.io
 My personal website
