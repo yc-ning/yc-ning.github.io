@@ -386,7 +386,7 @@ p {
 /* Main column */
 .main {
   flex: 72%;
-  min-width: 40em;
+  min-width: 60em;
   max-width: 75em;
   background-color: white;
   padding: 18px;
