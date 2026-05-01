@@ -23,8 +23,6 @@ order: 4
  * [Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/), University of Victoria, 2026-
  * [Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/), University of Victoria, 2025-  
  * [Gaganjot Kaur](https://www.linkedin.com/in/gaganjt-kaur/), University of Victoria, 2024- (with Dr. Alex Thomo)
- * [Khizra Hanif](https://www.linkedin.com/in/khizra-hanif-6020b4117/), University of Victoria, 2023-
- * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021-
 
 ([Sara Alifetrat](https://www.linkedin.com/in/sara-alifetrat/) scheduled to start Sept 2026)  
 ([Sara Mohammadi](https://www.linkedin.com/in/sara-mohammadi-baa151250/) scheduled to start Sept 2026)  
@@ -32,10 +30,9 @@ order: 4
 #### Undergraduate Scholars (Honour's and Awards Only)
 
  * [Viktoriia Horobets](https://www.linkedin.com/in/victoriavavis/), National Technical University of Ukraine, Honour's Thesis, Spring 2026
- * [Gerry Peng](https://www.linkedin.com/in/gerry-peng-321135255/), University of Victoria, JCURA Scholar, Fall 2025
- * [Johnathan Warawa](https://orcid.org/0009-0007-2027-4657), University of Victoria, JCURA Scholar, Fall 2025
 
-(Viktoriia Horobets scheduled to start a Mitacs Globalink internship in Summer 2026)  
+(Viktoriia Horobets scheduled to start a Mitacs Globalink internship in July 2026)  
+(Johnathan Warawa scheduled to start an NSERC USRA in Winter 2027)  
 
 ### Previous Graduate Students
 
@@ -48,6 +45,8 @@ order: 4
 
 #### Master's (Thesis-only)
 
+ * [Khizra Hanif](https://www.linkedin.com/in/khizra-hanif-6020b4117/), University of Victoria, 2023-2026
+ * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021-2026
  * [Ninad Tongay](https://www.linkedin.com/in/ninadtongay/), University of Victoria, 2023-2025
  * [Yijie (Jax) Wu](https://www.linkedin.com/in/yijie-wu-4b134b214/), University of Victoria, 2023-2025
  * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022-2025 (with Dr. Mario Nascimento)
@@ -64,6 +63,8 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
+ * [Gerry Peng](https://www.linkedin.com/in/gerry-peng-321135255/), University of Victoria, JCURA Scholar, Fall 2025
+ * [Johnathan Warawa](https://orcid.org/0009-0007-2027-4657), University of Victoria, JCURA Scholar, Fall 2025
  * [Gerry Peng](https://www.linkedin.com/in/gerry-peng-321135255/), University of Victoria, Honour's Thesis, Fall 2025
  * Tiange Zhang, Nankai University, Mitacs Globalink Research Fellow, Summer 2025
  * [Johnathan Warawa](https://orcid.org/0009-0007-2027-4657), University of Victoria, Research Award, Summer 2025
