@@ -6,9 +6,9 @@ description: >
   of Dr. Sean Chester at the University of Victoria
   (UVic) in Victoria, BC, Canada. 
 heading: Openings
-nav-title: Openings
+hidden: true  # nav-title: Openings
 permalink: /openings/
-order: 6
+order: 
 seo:
   name: Sean Chester
   links: ["https://plus.google.com/+SeanChester",
