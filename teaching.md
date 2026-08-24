@@ -8,15 +8,14 @@ description: >
 permalink: /teaching/
 order: 4
 ---
+<div style="font-size:0.85em;">
 
 <h2>Texas A&amp;M University</h2>
-
 <h3>STA 312 &mdash; Statistics for Biology</h3>
 <p><i>Instructor (undergraduate)</i></p>
-
+<ul class="s"><li>Fall 2026</li></ul>
 
 <h2>University of California, Davis</h2>
-
 <h3>STA 141B &mdash; Data &amp; Web Technologies for Data Analysis</h3>
 <p><i>Instructor (undergraduate)</i></p>
 <p>
@@ -28,7 +27,6 @@ order: 4
 	<a href="https://github.com/YC-Ning/Teaching/tree/main/STA141B-2022WQ"><font color="#0D6FFF">Winter 2022</font></a>
 	</li>
 </ul>
-
 <h3>STA 141C &mdash; Big Data &amp; High Performance Statistical Computing</h3>
 <p><i>Instructor (undergraduate)</i></p>
 <p>
@@ -42,7 +40,6 @@ order: 4
 	<a href="https://github.com/YC-Ning/Teaching/tree/main/STA141C-2022SQ"><font color="#0D6FFF">Spring 2022</font></a>
 	</li>
 </ul>
-
 <h3>STA 208 &mdash; Statistical Machine Learning</h3>
 <p><i>Instructor (master's)</i></p>
 <p>
@@ -54,10 +51,7 @@ order: 4
 	<a href="https://github.com/YC-Ning/Teaching/tree/main/STA208-2022SQ"><font color="#0D6FFF">Spring 2022</font></a>
 	</li>
 </ul>
-
-
 <h2>Yale University</h2>
-
 <h3>S&amp;DS 170/570 &mdash; YData: ExoStatistics: Exploring Extrasolar Planets with Data Science</h3>
 <p><i>Guest Lecturer (undergraduate)</i></p>
 <ul class="s">
@@ -65,10 +59,7 @@ order: 4
 	April 2019
 	</li>
 </ul>
-
-
 <h2>North Carolina State University</h2>
-
 <h3>ST 512 &mdash; Experimental Statistics for Biological Sciences II</h3>
 <p><i>Lab Instructor (master's, Ph.D.)</i></p>
 <ul class="s">
@@ -76,7 +67,6 @@ order: 4
 	Fall 2017, Fall 2016, Spring 2016, Fall 2015
 	</li>
 </ul>
-
 <h3>ST 555 &mdash; SAS Programming I</h3>
 <p><i>Online Course Teaching Assistant (master's)</i></p>
 <ul class="s">
@@ -84,7 +74,6 @@ order: 4
 	Spring 2015, Fall 2014, Summer I 2014
 	</li>
 </ul>
-
 <h3>ST 590 &mdash; Statistical Practice (Consulting)</h3>
 <p><i>Grader (master's, Ph.D.)</i></p>
 <ul class="s">
@@ -93,3 +82,4 @@ order: 4
 	</li>
 </ul>
 
+</div>
