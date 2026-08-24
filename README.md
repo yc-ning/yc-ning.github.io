@@ -1,4 +1,4 @@
-# sean-chester.github.io
+# yc-ning.github.io
 _Personal academic webpage, served with GitHub Pages and Jekyll_
 
 This is a single-contributor repository to serve up my personal academic webpage. 
