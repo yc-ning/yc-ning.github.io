@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Sean Chester - Biography
+title: Yu-Chien Ning - Biography
 description: >
-  A brief biography of Dr. Sean Chester, assistant professor at the 
-  University of Victoria (UVic) in Victoria, BC, Canada. 
+  A brief biography of Dr. Yu-Chien Ning, assistant professor in statistics at  
+  Texas A&M University in College Station, TX, United States. 
 heading: Biography
 nav-title: Biography
 permalink: /bio/
