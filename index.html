@@ -36,11 +36,27 @@ order: 1
 	</div>
 	 
 <style>
-  #research-focus .rf-item { white-space: nowrap; }
-  @media (max-width: 480px) {
+  #info-box {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5em;
+    width: 100%;
+    overflow: visible; /* Prevents outer cropping */
+  }
+
+  #research-focus {
+    flex-grow: 1;
+    margin-right: 2em; /* Gives extra space on the right */
+  }
+
+  #research-focus .rf-item { 
+    white-space: nowrap; 
+  }
+
+  @media (max-width: 600px) {
     #info-box { flex-direction: column; align-items: flex-start; }
     #me { margin-left: 0 !important; }
-    #research-focus { min-width: 0 !important; }
+    #research-focus .rf-item { white-space: normal; }
   }
 </style>
 
