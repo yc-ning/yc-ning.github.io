@@ -57,7 +57,7 @@ Previously, he held positions at Harvard HSPH (Research Associate), UC Davis (Vi
 .research-dropdowns-row {
   display: flex;
   gap: 10px;
-  margin: 0 0 1.2em 0;
+  margin: 2px 0 1.2em 0;
   font-family: inherit;
 }
 .dd-block {
