@@ -1,75 +1,81 @@
 ---
 layout: page
-title: Sean Chester - Courses Taught
-nav-title: Courses
-heading: Courses Taught
-description: > 
-  A list of full-term courses taught by Dr. Sean Chester.
-permalink: /courses/
-order: 5
+title: Yu-Chien Ning - Teaching
+nav-title: Teaching
+heading: Teaching
+description: >
+  A list of courses I taught in the past
+permalink: /teaching/
+order: 3
 ---
 
+<h3>STA 141B &mdash; Data &amp; Web Technologies for Data Analysis</h3>
+<p><i>Instructor, University of California, Davis (undergraduate)</i></p>
+<p>
+<a href="https://github.com/Bo-Ning/Teaching/blob/main/STA141B-2022WQ/Syllabus.pdf"><font color="#E7A10C">[Syllabus]</font></a>
+</p>
+<ul class="s">
+	<li>
+	<a href="https://github.com/Bo-Ning/Teaching/tree/main/STA141B-2022WQ"><font color="#0D6FFF">Winter 2023</font></a>,
+	<a href="https://github.com/Bo-Ning/Teaching/tree/main/STA141B-2022WQ"><font color="#0D6FFF">Winter 2022</font></a>
+	</li>
+</ul>
 
-### GPU Computing
+<h3>STA 141C &mdash; Big Data &amp; High Performance Statistical Computing</h3>
+<p><i>Instructor, University of California, Davis (undergraduate)</i></p>
+<p>
+<a href="https://github.com/Bo-Ning/Teaching/blob/main/STA141C-2022SQ/Syllabus.pdf"><font color="#E7A10C">[Syllabus]</font></a>
+</p>
+<ul class="s">
+	<li>
+	<a href="https://github.com/Bo-Ning/Teaching/tree/main/STA141C-2022SQ"><font color="#0D6FFF">Winter 2023</font></a>,
+	<a href="https://github.com/Bo-Ning/Teaching/tree/main/STA141C-2022SQ"><font color="#0D6FFF">Winter 2022</font></a>,
+	<a href="https://github.com/Bo-Ning/Teaching/tree/main/STA141C-2022SQ"><font color="#0D6FFF">Spring 2023</font></a>,
+	<a href="https://github.com/Bo-Ning/Teaching/tree/main/STA141C-2022SQ"><font color="#0D6FFF">Spring 2022</font></a>
+	</li>
+</ul>
 
-_In the past ten years, the use of graphics processing units (GPUs) for general purpose computation has exploded. This has driven a lot of innovation in what was already a very different computer architecture from a standard CPU. Taking full advantage of the massive parallelism offered for GPUs thus requires thinking differently about algorithm design as well as understanding the architecture in order to obtain high throughput. In this course, you will learn how to expose non-trivial data-level parallelism, how to take full advantage of modern GPU hardware, and how to implement GPU applications in CUDA._
+<h3>STA 208 &mdash; Statistical Machine Learning</h3>
+<p><i>Instructor, University of California, Davis (master's)</i></p>
+<p>
+<a href="https://github.com/Bo-Ning/Teaching/blob/main/STA208-2022SQ/Syllabus.pdf"><font color="#E7A10C">[Syllabus]</font></a>
+</p>
+<ul class="s">
+	<li>
+	<a href="https://github.com/Bo-Ning/Teaching/tree/main/STA208-2022SQ"><font color="#0D6FFF">Spring 2023</font></a>,
+	<a href="https://github.com/Bo-Ning/Teaching/tree/main/STA208-2022SQ"><font color="#0D6FFF">Spring 2022</font></a>
+	</li>
+</ul>
 
-Offered as a graduate-level course (CSC 586C) and as an undergraduate-level topics course (CSC 485B).
+<h3>S&amp;DS 170/570 &mdash; YData: ExoStatistics: Exploring Extrasolar Planets with Data Science</h3>
+<p><i>Guest Lecturer, Yale University (undergraduate)</i></p>
+<ul class="s">
+	<li>
+	April 2019
+	</li>
+</ul>
 
- * [Fall 2024](https://heat.csc.uvic.ca/coview/course/2024091/CSC586C)
+<h3>ST 512 &mdash; Experimental Statistics for Biological Sciences II</h3>
+<p><i>Lab Instructor, North Carolina State University (master's, Ph.D.)</i></p>
+<ul class="s">
+	<li>
+	Fall 2017, Fall 2016, Spring 2016, Fall 2015
+	</li>
+</ul>
 
+<h3>ST 555 &mdash; SAS Programming I</h3>
+<p><i>Online Course Teaching Assistant, North Carolina State University (master's)</i></p>
+<ul class="s">
+	<li>
+	Spring 2015, Fall 2014, Summer I 2014
+	</li>
+</ul>
 
-### Data Management on Modern Computer Architectures
+<h3>ST 590 &mdash; Statistical Practice (Consulting)</h3>
+<p><i>Grader, North Carolina State University (master's, Ph.D.)</i></p>
+<ul class="s">
+	<li>
+	Spring 2017, Spring 2016
+	</li>
+</ul>
 
-_An advanced, in-depth course on data-oriented design and shared-memory parallelism in which you will learn how to optimise software to run closer to "bare metal speed." Focusing on a semester-long group project, you will learn how to leverage knowledge of computer architecture to tackle the memory wall, optimise data structures for locality of reference, exploit "single-core parallelism" (i.e., superscalar cores and SIMD), expose data-level parallelism for multi-core machines, and transform graphics processing units (GPU's) into general purpose compute using CUDA. This knowledge will help you write software that increases performance per watt (saving mobile battery life or data centre emissions) and that scales into the future._
-
-(Outdated) materials for this course are [available online](https://github.com/sean-chester/exploiting-modern-hardware). Offered as a graduate-level course (CSC 586C) and as an undergraduate-level topics course (CSC 485C).
-
- * [Summer 2022](http://heat.csc.uvic.ca/coview/course/2022051/CSC586C)
- * [Spring 2021](http://heat.csc.uvic.ca/coview/course/2021011/CSC586C)
- * [Spring 2020](http://heat.csc.uvic.ca/coview/course/2020011/CSC586C)
-
-[This course has now been deprecated.]
-
-### Algorithms and Data Models
-
-_A data model is "a notation for describing data or information" that typically consists of a description of the structure of data, operations that are permitted on that data, and constraints that exist on the data (Garcia-Molina et al., 2009). In this advanced course, we will develop theoretical foundations for NoSQL and NewSQL data models so that we can better understand modern systems of data management. Critically, we will also develop and implement small practical applications to apply that theory within a Data Science context._
-
-(*Very* outdated) materials for this course are [available online](https://github.com/sean-chester/data-models-for-data-science/). Offered as a graduate-level course (CSC 501) as part of the Master's of Applied Data Science (MADS) program.
-
- * [Fall 2023](http://heat.csc.uvic.ca/coview/course/2023091/CSC501)
- * [Fall 2022](http://heat.csc.uvic.ca/coview/course/2022091/CSC501)
- * [Fall 2021](http://heat.csc.uvic.ca/coview/course/2021091/CSC501)
- * [Fall 2020](http://heat.csc.uvic.ca/coview/course/2020091/CSC501)
- * [Fall 2019](http://heat.csc.uvic.ca/coview/course/2019091/CSC501)
-
-
-### Database Systems
-
-_It is cliche by now to claim that "data is the new oil" as it powers the Information Age and could be considered to be the most valuable asset for many high-growth, high tech start-ups. But the value of data can only be realised if it is managed well. This course gives an overview of relational database management systems (RDBMS's), a foundational tool in data management, including how to model the world with relational schemata, extract and analyse data with declarative query languages, and design data-powered applications._
-
-Assignment materials for this course are [available online](https://github.com/sean-chester/relational-databases).
-
- * [Summer 2023](https://heat.csc.uvic.ca/coview/course/2023051/CSC370)
- * [Fall 2022](https://heat.csc.uvic.ca/coview/course/2022091/CSC370)
- * [Summer 2022](https://heat.csc.uvic.ca/coview/course/2022051/CSC370)
- * [Spring 2022](https://heat.csc.uvic.ca/coview/course/2022011/CSC370)
- * [Fall 2021](https://heat.csc.uvic.ca/coview/course/2021091/CSC370)
-
-
-### Directed Studies
-
-I regularly run directed studies courses with students in which we focus on a more individualised topic than is available in the standard curriculum. These are run at both the graduate- and undergraduate-level and often provide an opportunity to engage in undergraduate research. Examples of courses that I have co-designed with students include:
-
- * Lock-free, GPU, & vector programming (Fall 2023)
- * Data-level Parallelism (Summer 2023)
- * Applied Natural Language Processing (Summer 2023)
- * Conversational AI (Spring 2023)
- * Lock-free Programming (Fall 2022)
- * Machine Learning for Databases (Summer 2022)
- * Data Lakes (Fall 2021)
- * Spatial Data Processing (Spring 2021)
- * Research Methods in Large-Scale Social Network Analysis (Fall 2020)
- * Adaptive Optics (Summer 2020)
- * Data Privacy (Spring 2020)
- * Advanced Topics in Blockchain Research (Spring 2020)
