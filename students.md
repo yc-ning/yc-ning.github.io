@@ -6,7 +6,7 @@ heading: Research Students Supervised
 description: > 
   A list of research students co-supervised by Sean Chester.
 permalink: /students/
-order: 4
+order: 0
 ---
 
 
