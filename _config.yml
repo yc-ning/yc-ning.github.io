@@ -10,8 +10,8 @@ title: Yu-Chien Bo Ning, Assistant Professor in Statistics, Texas A&M University
 author: Yu-Chien Ning
 email: ycning@tamu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The personal, academic webpage for Yu-Chien Ning, Assistant Professor
-  at Texas A&M Univeristy (TAMU). This site 
+  The personal, academic webpage for Yu-Chien Ning, Assistant Professor in Statistics
+  at Texas A&M University (TAMU). This site 
   highlights recent research, teaching, and academic activities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http:/yc-ning.github.io" # the base hostname & protocol for your site
