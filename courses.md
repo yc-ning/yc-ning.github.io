@@ -8,6 +8,9 @@ description: >
 permalink: /teaching/
 order: 4
 ---
+<h3>STA 312 &mdash; Statistics for Biology</h3>
+<p><i>Instructor, Texas A&M University (undergraduate)</i></p>
+
 
 <h3>STA 141B &mdash; Data &amp; Web Technologies for Data Analysis</h3>
 <p><i>Instructor, University of California, Davis (undergraduate)</i></p>
