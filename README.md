@@ -7,7 +7,7 @@ as long as you immediately, recursively delete all contents of the _assets/_ dir
 I am highly unlikely to accept pull requests: 
 please contact me in advance if you are compelled to create one. 
 
-**View the website in the wild**: http://sean-chester.github.io.
+**View the website in the wild**: http://yc-ning.github.io.
 
 
 ## License
