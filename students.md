@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Sean Chester - Students Supervised
-nav-title: Students
 heading: Research Students Supervised
+hidden: true
 description: > 
   A list of research students co-supervised by Sean Chester.
 permalink: /students/
-order: 0
+order: 4
 ---
 
 
