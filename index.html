@@ -29,8 +29,39 @@ order: 1
 	 
   <div id="info-box" style="display:flex; align-items:flex-start; gap:1.5em; ">
   
-  	<img id="me" src="/assets/images/selfie.png" style="width:180px; height:auto; flex-shrink:0; margin-left:-0.5em; "/>
-  	<div id="research-focus" style="flex:1; min-width:0; ">
+---
+layout: default
+title: Home
+order: 1
+---
+<div class="home">
+	<div id="name-box" >
+		<h1 style="padding-bottom:0em; margin-bottom:0em; white-space:nowrap;">Yu-Chien Ning <span lang="cn">甯宇謙</span></span></h1>
+		<h3 style="padding:0em; margin:0em; font-style:italic; ">Assistant Professor in Statistics</h2 >
+    <h3 style="padding:0em; margin:0em; ">Texas A&M University</h2 >
+    <div>
+      <ul class="contact-list" style="margin:0; padding:0;">
+        <li class="inline-social">
+          {% include icon-email.html email=site.email %}
+        </li>
+        {% if site.github_username %}
+        <li class="inline-social" style="margin-left:2em; margin-right:2em; ">
+          {% include icon-github.html username=site.github_username %}
+        </li>
+        {% endif %}
+        <li class="inline-social">
+          <a href="https://drive.google.com/file/d/1uxN7Q7agos9oppH5oDq937sMIMjLArg6/view" target="_blank" rel="noopener" title="CV">
+            <i class="far fa-file-pdf"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+	</div>
+	 
+  <div id="info-box" style="display:flex; align-items:flex-start; gap:1.5em; ">
+  
+  	<img id="me" src="/assets/images/selfie.png" style="width:160px; height:auto; flex-shrink:0; margin-left:-1.5em; "/>
+  	<div id="research-focus" >
   	<h4>Research Focus</h4>
   	<span style="font-style:italic; ">
   		<ul style="margin:0; padding-left:1.2em; ">
@@ -40,20 +71,6 @@ order: 1
 					<li style="white-space:nowrap; ">Uncertainty quantification</li>
 					<li style="white-space:nowrap; ">Algorithms</li>
 					<li style="white-space:nowrap; ">Data science</li>
-  				</ul>
-  			</li>
-  		</ul>
-  	</span>
-  	</div>
-  </div>
-</div>
-  		<ul style="margin:0; padding-left:1.2em; ">
-  			<li> Trustworthy Bayesian machine learning
-  				<ul style="list-style:none; display:flex; flex-wrap:wrap; gap:0.3em 1.2em; margin:0.3em 0 0 0; padding:0; ">
-					<li>Theoretical foundation</li>
-					<li>Uncertainty quantification</li>
-					<li>Algorithms</li>
-					<li>Data science</li>
   				</ul>
   			</li>
   		</ul>
