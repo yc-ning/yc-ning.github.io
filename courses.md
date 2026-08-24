@@ -6,7 +6,7 @@ heading: Teaching
 description: >
   A list of courses I taught in the past
 permalink: /teaching/
-order: 3
+order: 4
 ---
 
 <h3>STA 141B &mdash; Data &amp; Web Technologies for Data Analysis</h3>
