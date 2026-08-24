@@ -3,6 +3,14 @@ layout: default
 title: Home
 order: 1
 ---
+<style>
+  #research-focus .rf-item { white-space: nowrap; }
+  @media (max-width: 480px) {
+    #research-focus .rf-item { white-space: normal; }
+    #me { margin-left: 0 !important; }
+  }
+</style>
+
 <div class="home">
 	<div id="name-box" >
 		<h1 style="padding-bottom:0em; margin-bottom:0em; white-space:nowrap;">Yu-Chien Ning <span lang="cn">甯宇謙</span></span></h1>
@@ -34,12 +42,12 @@ order: 1
   	<h4>Research Focus</h4>
   	<span style="font-style:italic; ">
   		<ul style="margin:0; padding-left:1.5em; ">
-  			<li style="white-space:nowrap; ">Trustworthy Bayesian machine learning
+  			<li class="rf-item">Trustworthy Bayesian machine learning
   				<ul style="margin:0.3em 0 0 0; padding-left:1.5em; ">
-					<li style="white-space:nowrap; ">Theoretical foundation</li>
-					<li style="white-space:nowrap; ">Uncertainty quantification</li>
-					<li style="white-space:nowrap; ">Algorithms</li>
-					<li style="white-space:nowrap; ">Data science</li>
+					<li class="rf-item">Theoretical foundation</li>
+					<li class="rf-item">Uncertainty quantification</li>
+					<li class="rf-item">Algorithms</li>
+					<li class="rf-item">Data science</li>
   				</ul>
   			</li>
   		</ul>
