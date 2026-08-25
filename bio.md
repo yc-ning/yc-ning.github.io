@@ -28,7 +28,7 @@ Dr. Yu-Chien Bo Ning is an assistant professor in the Department of Statistics a
   </div>
   <div class="dd-block">
     <button class="dd-toggle" data-target="panel-algo">
-      <span>ML algorithms</span>
+      <span>ML algorithm</span>
       <span class="chevron">+</span>
     </button>
     <div id="panel-algo" class="dd-panel">
