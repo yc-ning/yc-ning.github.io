@@ -13,7 +13,7 @@ Dr. Yu-Chien Bo Ning is an assistant professor in the Department of Statistics a
 <div class="research-dropdowns-row">
   <div class="dd-block">
     <button class="dd-toggle" data-target="panel-theory">
-      <span>Theoretical foundations</span>
+      <span>Theoretical foundation</span>
       <span class="chevron">+</span>
     </button>
     <div id="panel-theory" class="dd-panel">
