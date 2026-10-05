@@ -11,7 +11,7 @@ order: 4
 <div style="font-size:0.85em;">
 
 <h2>Texas A&amp;M University</h2>
-<h3>STA 312 &mdash; Statistics for Biology</h3>
+<h3>STAT 312 &mdash; Statistics for Biology</h3>
 <p><i>Instructor (undergraduate)</i></p>
 <ul class="s"><li>Fall 2026</li></ul>
 
